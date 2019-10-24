@@ -47,6 +47,7 @@ The above lorem ipsum is from [this site](https://www.lipsum.com/feed/html)
 #Images  
 ![alt text](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/21010129/Bulldog-Slide-02.jpg)  
 
+
 #Tables
 |col 1|col 2|
 |---|---|
