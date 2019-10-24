@@ -13,8 +13,7 @@ Another line
 # Level 1 header 
 ## Level 2 header 
 
-## Formatting
-_italics_  
+## Formatting**italics** 
 **bold**  
 ~~strikeThrough~~  
 `code`  
