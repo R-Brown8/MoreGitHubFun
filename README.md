@@ -17,7 +17,7 @@ Another line
 ## Formatting 
 **italics** 
 **bold**  
-~~strikeThrough~~  
+~~strikeThrough~~
 `code`  
 
 ```
