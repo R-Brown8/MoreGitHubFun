@@ -40,16 +40,16 @@ ordered lists
 1. item 3
 
 
-##Links  
+## Links  
 https://www.lipsum.com/feed/html
 
 The above lorem ipsum is from [this site](https://www.lipsum.com/feed/html)
 
-##Images    
+## Images    
 ![alt text](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/21010129/Bulldog-Slide-02.jpg)  
 
 
-##Tables  
+## Tables  
 |col 1|col 2|
 |---|---|
 |item 1|item 2|
